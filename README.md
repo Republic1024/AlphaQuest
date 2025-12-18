@@ -2,7 +2,11 @@
 
 **AlphaQuest** 是一款工业级金融情报自动化系统。它利用 **DeepSeek-V3** 的深度语义理解能力，配合高并发工程管线，实现了对全球顶级巨头财报通话记录（Earnings Call Transcripts）的结构化解析、风险对齐与自动化投研点评。
 
----
+![final_strategy_matrix_misans](./assets/final_strategy_matrix_misans.png)
+
+![financial_anomaly_leaderboard](./assets/financial_anomaly_leaderboard.png)
+
+![financial_consistency_leaderboard](./assets/financial_consistency_leaderboard.png)
 
 ### 📊 核心效能看板 (Performance Dashboard)
 
